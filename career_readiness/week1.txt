@@ -1,0 +1,12 @@
+1️⃣ Check your skills
+    no project yet
+2️⃣ What roles are we aiming to achieve
+    Job position: ML engineer
+    Needed: python, pytorch, pandas
+    Desired: SQL, FastAPI
+    Responsibilities: to make ML code or data preprocessing
+3️⃣ What we have and what we’re missing
+    python: done
+    pytorch: need to learn
+    pandas: need to learn
+    SQL: need to learn
